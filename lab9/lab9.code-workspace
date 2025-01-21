@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "lab9",
+			"path": "."
+		},
+		{
+			"name": "astar",
+			"path": "../../Downloads/astar"
+		}
+	],
+	"settings": {}
+}
